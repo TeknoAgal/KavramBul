@@ -1,0 +1,888 @@
+{
+    "Adezyon": {
+        "tanım": "Adezyon, farklı moleküllerin birbirini çekmesi özelliğidir",
+        "ek_bilgi": [
+            "Suyun cam yüzeyine tutunması veya bir yüzeyde yayılması gibi durumlar adezyon örnekleridir [1].",
+            "Su, yüksek adezyon ve kohezyon özelliklerine sahiptir [1].",
+            "Bitkilerde suyun köklerden yukarı taşınması suyun adezyon ve kohezyon özelliğiyle sağlanır [1]."
+        ]
+    },
+    "Adaptasyon": {
+        "tanım": "Adaptasyon (uyum), canlıların yaşadığı çevrede hayatta kalabilme ve üreme şansını artıran türe özgü kalıtsal özelliklerin tümüdür",
+        "ek_bilgi": [
+            "Bukalemunun bulunduğu zemine göre renginin değişmesi adaptasyona örnektir [2].",
+            "Nemli bölge bitkilerinin terlemeyi artıran geniş yapraklarının olması adaptasyona örnektir [2].",
+            "Su kuşlarında ayak parmaklarının perdeli yapıda olması adaptasyona örnektir [2]."
+        ]
+    },
+    "Aktif taşıma": {
+        "tanım": "Aktif taşıma, enerji harcanan madde geçişidir [3].",
+        "ek_bilgi": []
+    },
+    "Amfibiler": {
+        "tanım": "Amfibiler, gelişim süreçlerinde başkalaşım geçiren omurgalılardır [4].",
+        "ek_bilgi": [
+            "Pulsuz, nemli ve yumuşak bir deriye sahip olan amfibiler değişken vücut sıcaklığına sahiptir [4].",
+            "Amfibiler suda ve karada yaşayabilen omurgalı grubundadır [4].",
+            "Bu canlılar yaşamlarına suda başlar ve erginliğe eriştiklerinde hem suda hem de karada yaşayabilir [4].",
+            "Amfibilerde dış döllenme ve dış gelişme görülür [4].",
+            "Suda yaşayan amfibi larvaları solungaç solunumu yapar [4].",
+            "Karada yaşayan amfibi ergin bireyler ise akciğer ve deri solunumu yapar [4].",
+            "Kurbağalar ve semenderler amfibi canlıların en bilinen örnekleridir [4].",
+            "Ilıman bölgelerde yaşayan kurbağaların çoğu kış aylarında kış uykusuna yatar [4].",
+            "Kış uykusu sırasında amfibilerin yaşamsal faaliyetleri çok düşük seviyededir [4]."
+        ]
+    },
+    "Amniyon kesesi": {
+        "tanım": "Amniyon kesesi, sürüngen, kuş ve memelilerin embriyolarının gelişirken içinde yer aldığı içerisi sıvı dolu kesedir [5, 6].",
+        "ek_bilgi": [
+             "Sürüngenlerin embriyolarının etrafında kuş ve memeli sınıfında da görülen koruyucu embriyonik zar bulunur [7]."
+        ]
+    },
+    "Analiz ve Sonuç Çıkarma": {
+        "tanım": "Elde edilen verilerin yorumlanmasına çıkarım denir [8].",
+        "ek_bilgi": [
+            "Bilimsel çalışma sürecinde elde edilen verilerin yorumlanmasına çıkarım denir [8].",
+            "Elde edilen bulgular veya çıkarımlar kurulan hipotez ile çelişirse hipotez tekrar gözden geçirilir ve gerekiyorsa değiştirilir [8].",
+            "Veriler hipotezi desteklemek için yeterli değilse yeni gözlem veya deneyler yapılarak yeni veriler elde edilmeye çalışılır [8].",
+            "Veriler hipotezi destekliyorsa deney sonuçları raporlanarak bilim çevrelerine duyurulur [8]."
+        ]
+    },
+     "Arkeler": {
+        "tanım": "Arkeler, diğer canlılar için zorlu şartlar olarak sayılabilecek çok sıcak, çok soğuk, aşırı asidik ve bazik, aşırı tuzlu ortamlarda yaşayabilen türleri içeren prokaryotları temsil eder [9].",
+        "ek_bilgi": [
+            "Arkelerin yaşam alanları oldukça çeşitlidir [9].",
+            "Arkeler; okyanusların derin bölgelerinden hidrotermal bölgelere, kaplıcalardan tuz havzalarına ve kutup ortamlarına kadar birçok zorlu doğa koşulunda yaşayabilir [9].",
+            "Bazı arke türleri termitlerin (beyaz karıncalar), sığırların bağırsakları gibi sadece anaerobik (oksijensiz) koşullarda yaşar [9].",
+            "Göletlerin ve bataklıkların dibinde, çürüyen bitkilerin arasında yaşayan arkeler de vardır [9].",
+            "Arkeler ve bu canlılardan elde edilen enzimler; çevresel kirlilikle mücadelede, biyoyakıt üretimi gibi biyoteknolojik ve endüstriyel süreçlerde de kullanılır [10].",
+            "Arkeler prokaryot hücre yapısındadır [11].",
+            "Arkeler belirgin çekirdekleri ve zarla çevrili yapıları bulunmaz [11].",
+            "Prokaryot hücre yapısına sahip arkeler, bakterilerden hücre duvarlarında içerdikleri protein-karbohidrat grupları ve ribozomlarındaki RNA dizileri bakımından oldukça farklıdır [11]."
+        ]
+    },
+    "Ayıraç": {
+        "tanım": "Tüketilen besinlerin içeriğinde bulunan organik moleküllerin tayini ayıraç (indikatör) adı verilen moleküllerle yapılır [12].",
+        "ek_bilgi": [
+            "Ayıraçlar tespit edilmek istenen moleküllerle etkileşime girerek renk değiştirir [12].",
+            "Ayıraçlar sayesinde belirli bir karışım içerisinde istenilen bileşiğin varlığı tespit edilebilir [12]."
+        ]
+    },
+    "Basal metabolizma": {
+        "tanım": "Bazal metabolizma, dinlenme sırasında vücut fonksiyonlarının devamlılığını sağlayan biyolojik ve kimyasal süreçlerin tümüdür [6, 13].",
+        "ek_bilgi": []
+    },
+    "Basit difüzyon": {
+        "tanım": "Basit difüzyon, yağda çözünen moleküllerin zardan geçişidir [3].",
+        "ek_bilgi": []
+    },
+     "Bakteriler": {
+        "tanım": "Bakteriler prokaryot hücre yapısındadır [11].",
+        "ek_bilgi": [
+             "Bakteriler belirgin çekirdekleri ve zarla çevrili yapıları bulunmaz [11].",
+             "Prokaryot hücre yapısına sahip bakteriler, arkelerden hücre duvarlarında içerdikleri protein-karbohidrat grupları ve ribozomlarındaki RNA dizileri bakımından oldukça farklıdır [11].",
+             "Ökaryotlardan kromozom yapılarında bulunan proteinler (histon) açısından ayrılır [11]."
+        ]
+    },
+    "Balıklar": {
+        "tanım": "Balıklar, oksijen alımını sağlayan solungaçlara sahip olan omurgalı grubudur [14].",
+        "ek_bilgi": [
+            "Balıklar kemik veya kıkırdaktan yapılmış iskelete sahiptir [14].",
+            "Balıklar değişken vücut sıcaklığına sahip olan ve suda yaşayan omurgalı grubudur [14].",
+            "Balıklarda yüzgeçler hareketin gerçekleşmesinde, dengeyi sağlamada ve yön değişmede görevlidir [14].",
+            "Balıkların çoğunda deri pullarla kaplıdır [14].",
+            "Köpek balığı ve vatoz kıkırdaklı balıklara örnektir [14].",
+            "Aslan balığı ve yılan balığı da kemikli balıklara örnektir [14].",
+            "Balıklarda olduğu gibi sucul ortamda yaşayan canlılarda genellikle dış döllenme ve dış gelişme görülür [4].",
+            "Dişi ve erkek tarafından döllenme için uygun bir ortamda suya bırakılan çok sayıda üreme hücresi suda yaşayan canlıların üreme başarısını artırır [4].",
+            "Balıklar, sucul ekosistemlerin en önemli bileşenleridir [4].",
+            "Balıklar ekonomik ve ekolojik açıdan büyük öneme sahiptir [4].",
+            "Aslan balığı gibi istilacı balık türleri biyolojik çeşitliliği olumsuz yönde etkiler [4]."
+        ]
+    },
+     "Başkalaşım": {
+        "tanım": "Başkalaşım, bir canlının belirli bir yaşam evresinde yapısal ve işlevsel olarak değişimler geçirmesidir [6, 15].",
+        "ek_bilgi": [
+            "Bazı böcekler gelişim evrelerinde başkalaşım (metamorfoz) geçirir [15].",
+            "Amfibiler, gelişim süreçlerinde başkalaşım geçiren omurgalılardır [4]."
+        ]
+    },
+    "Beslenme çeşitleri": {
+        "tanım": "Canlıların tamamı beslenmek zorundadır ve bazıları besinlerini kendisi üretirken bazıları dış ortamdan hazır alır [16].",
+        "ek_bilgi": [
+            "Prokaryotik canlılar beslenmelerini ototrof veya heterotrof olarak gerçekleştirir [17].",
+            "Mantarlar kendi besinlerini üretemez [18].",
+            "Çoğu mantar çürükçüldür (dış ortama salgıladıkları enzimleriyle organik artıkları daha küçük birimlere ayrıştırır ve sindirilmiş besinleri alarak besinlerini temin eder) [18].",
+            "Mantarlar bu sayede doğal ortamdaki organik artıkların döngüsünde önemli rol üstlenir [18].",
+            "Bitkiler, fotosentez yoluyla birçok canlı için gerekli oksijeni ve besinleri üretir [19].",
+            "Omurgalı canlılar holozoik beslenir [20].",
+            "Ağız ve anüs arasında yer alan sindirim sistemleri sayesinde omurgalılarda besinler holozoik olarak alınır ve sindirilir [20]."
+        ]
+    },
+    "Bilim": {
+        "tanım": "Genel olarak bilim, evrendeki olaylara ve evrenle ilgili merak edilen sorulara yanıt arama sürecinde sistematik bilgi edinme, elde edilen bilgilerin güvenilir ve geçerli olarak açıklanabilmesi şeklinde tanımlanır [21].",
+        "ek_bilgi": [
+            "Bilimin farklı tanımları da yapılabilir [21].",
+            "Bilimin niteliğinin, öneminin ve doğasının anlaşılarak açıklanması önemlidir [21]."
+        ]
+    },
+    "Bilim etiği": {
+        "tanım": "Bilim etiği ise araştırmacıların ve bilim insanlarının bilimsel süreç basamaklarında davranışlarını, araştırma yöntemlerini ve sonuçlarını etik standartlara uygun şekilde yönlendiren bir olgudur [22].",
+        "ek_bilgi": [
+            "Bilimsel araştırmaların etik ilkelerle uyumlu bir şekilde yürütülmesi, bilimin ve toplumun sağlıklı gelişimi için kritik bir öneme sahiptir [22].",
+            "Bilim etiği, araştırma bulgularında yanlış yönlendirmelerden kaçınılmasını ve bilimsel camiaya tarafsız bilgi sunulmasını sağlamaktadır [23].",
+            "Araştırma sürecinin her aşamasında etik standartların gözetilmesi ve etiğe uygunluğunun göz önünde bulundurulması, bilim insanlarının ve genel olarak toplumun güveninin sağlanması için hayati bir öneme sahiptir [24]."
+        ]
+    },
+     "Bilimin doğası": {
+        "tanım": "Bilimin doğası; bilimsel araştırmaların nasıl yapıldığını, bilimsel bilginin nasıl elde edildiğini ve değerlendirildiğini, bilimsel bilginin toplumda nasıl kullanıldığını açıklayan bir kavramdır [25].",
+        "ek_bilgi": [
+            "Bilimin doğası, bilimsel bilginin gelişim sürecindeki değerler ve kabuller olarak da tanımlanır [25].",
+            "Bilimin doğasının anlaşılabilmesi için göz önünde bulundurulması gereken bazı özellikler bulunur [25].",
+            "Bilimin doğası; bilimin daha derinlemesine anlaşılmasını, yazılı ve görsel basında çıkan yeni iddiaların doğrudan kabul edilmesi yerine bunların bilimsel olarak değerlendirilmesi gerektiğini anlatır [26].",
+            "Bilimin doğası, bilgilerin bilimsel yöntemlere dayalı sunulup sunulmadığının irdelenmesini ve bu bağlamda bilimsel süreçlerin önemli olduğunun fark edilmesini sağlar [26].",
+            "Bilimin doğası, tek bir bilimsel yöntemin olmadığını ve bunun yerine çeşitli disiplinlerde farklı araştırma sorularıyla karşılaşıldığında farklı bilimsel yöntemlerin kullanılabileceğini ifade etmektedir [27].",
+            "Bilimsel yöntem süreçlerindeki çeşitlilik ve esneklik, bilimsel araştırmaların doğasının bir parçasıdır [27].",
+            "Bilimsel yöntem süreçlerindeki çeşitlilik araştırılan konuya, alanın doğasına ve araştırmacıların tercihlerine bağlı olarak değişmektedir [27]."
+        ]
+    },
+    "Binominal adlandırma": {
+        "tanım": "Türlerin adlandırmaları binominal (ikili) olarak yapılır [28].",
+        "ek_bilgi": [
+            "Tür isimlerinde birinci kelime cins adı, ikinci kelime ise tamamlayıcı adı ifade eder [28].",
+            "Cins adının ilk harfi büyük, diğerleri ise küçük yazılır [28].",
+            "Bu iki kelimeyle ifade edilen tür isimleri eğik (italik) yazılarak verilir [28]."
+        ]
+    },
+    "Bitkiler": {
+        "tanım": "Bitkiler âlemi ökaryotik canlıları kapsar.",
+        "ek_bilgi": [
+            "Bitkiler, fotosentez yoluyla birçok canlı için gerekli oksijeni ve besinleri üretir [19].",
+            "Bitkiler canlılar için yaşam alanları oluşturur [19].",
+            "Kökleri aracılığıyla topraktan emilen su ve mineraller bitkilerin yeşil kısımlarına ulaştırılır [29].",
+            "Fotosentez sonucunda üretilen organik moleküller kullanılacağı veya depolanacağı yapılara ulaştırılır [29].",
+            "Su ve besinlerin taşınımı, iletim demeti adı verilen gelişmiş taşıma kanalları aracılığıyla gerçekleşir [29].",
+            "Bitkiler, tohumlu bitkiler ve tohumsuz bitkiler olmak üzere iki ana gruba ayrılır [29].",
+            "Tohumlu bitkiler tohumun açıkta ya da kapalı olma durumuna göre açık tohumlu bitkiler ve kapalı tohumlu bitkiler olarak iki gruba ayrılır [29].",
+            "Kapalı tohumlu bitkilerde tohumlar, eşeyli üreme sonucunda oluşturulan yeni bitki taslağı (embriyo) ve onu besleyen besin deposuyla (endosperm) kaplanmış bir yapıdır [29].",
+            "Tohumların çimlenmesiyle yeni bitkiler oluşur [29].",
+            "Çevrenizde gördüğünüz çiçekli bitkilerin tamamı tohumlu bitki örnekleridir [29].",
+            "Kara yosunları, ciğer otları ve eğrelti otları gibi çiçeksiz bitkilerde tohum oluşmaz [29].",
+            "Tohumsuz bitkilerde iletim demetleri basit yapılıdır [29].",
+            "Özellikle ciğer otları ve kara yosunları gibi tohumsuz bitkilerde belirgin bir iletim demeti sistemi bulunmaz [29].",
+            "Tohumsuz bitkiler genellikle nemli ortamlarda yaşar [29].",
+            "Tohumlu bitkileri tanımanın en belirgin yolu bu bitkilerin çiçeğinin, meyvesinin ya da kozalağının varlığıdır [29].",
+            "Çiçekler ve kozalaklar, bitkilerin üreme organıdır [29]."
+        ]
+    },
+    "Biyoçeşitlilik": {
+        "tanım": "Biyolojik çeşitlilik; bitkiler, hayvanlar, mantarlar, mikroorganizmalar gibi tüm canlıları, bunların oluşturdukları ekosistemleri ve içinde yaşadıkları alanları kapsar [30].",
+        "ek_bilgi": [
+            "Genetik çeşitlilik, tür ve ekosistem çeşitliliği biyoçeşitliliğin temel unsurlarıdır [30].",
+            "Biyoçeşitliliğin devamı ve ekolojik denge için canlı türlerinin sayısının azalması veya yok olması önemli bir sorun oluşturur [31].",
+            "Çeşitliliğin korunabilmesi için canlıların tanımlanması ve sınıflandırılması gereklidir [31].",
+            "Çevre koruma alanında sınıflandırma bilimi biyoçeşitlilik için önemlidir [31].",
+            "Keşfedilmemiş organizmalar da ekosistemlerin sürdürülebilirliği açısından önemlidir [31].",
+            "Türkiye’nin biyoçeşitliliği üzerinde pek çok çalışma yapılmıştır [32].",
+            "Türkiye biyoçeşitlilik çalışmalarında Türk bilim insanlarının önemli katkıları bulunmaktadır [32]."
+        ]
+    },
+    "Biyoloji": {
+        "tanım": "Biyoloji, canlıların yapılarını ve işlevlerini inceleyerek yaşamın doğasının anlaşılmasına yardımcı olan bilim dalıdır [33].",
+        "ek_bilgi": [
+            "Biyoloji canlıların birbirleriyle ve çevreleriyle nasıl etkileşime girdiğini inceleyen doğa bilimlerinin bir parçası olarak da tanımlanır [33].",
+            "Sağlık bilimleri alanındaki önemli çalışmaların temelini oluşturan da biyoloji bilim dalıdır [33].",
+            "Biyoloji çevre ve ekonomiyle ilgili konulara odaklanarak ekosistemlerin korunması, biyolojik çeşitliliğin sürdürülmesi ve tarımsal verimliliğin artırılmasına da katkıda bulunur [33].",
+            "İnsan vücudunun yapı ve işlev bakımından anlaşılması, hastalıkların ve mekanizmalarının aydınlatılması, yeni tedavi yöntemlerinin geliştirilmesi biyoloji biliminin katkılarıyla gerçekleşir [34].",
+            "Biyoloji, ekosistemlerin canlı ve cansız bileşenleri arasındaki etkileşimler ile bu bileşenler arasındaki dengenin korunmasında çok büyük rol oynar [34].",
+            "Biyoloji, doğal kaynakların sürdürülebilir bir şekilde kullanılması ve tarımsal uygulamalarla gıda üretiminin artırılması gibi alanlarda da rol oynar [34].",
+            "Biyoloji hem ekonomik gelişme hem de çevresel sürdürülebilirlik için oldukça önemli bir bilim dalıdır [34]."
+        ]
+    },
+     "Büyüme ve Gelişme": {
+        "tanım": "Büyüme, canlının hacim veya kütle olarak artışıdır, gelişme ise canlının sahip olduğu yapıların zamanla belirli bir görevi yapma olgunluğuna erişmesidir [35].",
+        "ek_bilgi": [
+            "Gelişmede hücrelerin farklılaşması, özel görevlere sahip dokuların ve organların oluşması gibi süreçler bulunur [35].",
+            "Yeni doğan bir bebeğin kilo alması büyümeye örnektir [35].",
+            "Yeni doğan bir bebeğin zamanla emeklemeye başlaması gelişmeye örnek olarak verilebilir [35].",
+            "Büyüme ve gelişme, organizmaların yaşam süreçlerindeki temel özelliklerden biridir [35].",
+            "Çevreyle ilgili faktörler, beslenme alışkanlıkları ve genetik yapılar büyüme ve gelişme sürecini etkileyen başlıca etmenlerdir [35]."
+        ]
+    },
+    "Cins": {
+        "tanım": "Taksonomik hiyerarşide türün üstünde, ailenin altında yer alan kategoridir [6, 28].",
+        "ek_bilgi": [
+            "Tür isimlerinde birinci kelime cins adı ifade eder [28]."
+        ]
+    },
+    "CRISPR-Cas sistemi": {
+        "tanım": "CRISPR-Cas sistemi, genom düzenleme teknolojisidir [6].",
+        "ek_bilgi": [
+            "CRISPR-Cas sistemi, araştırmacıların DNA üzerinde ekleme, çıkarma ya da dizilim değiştirme yapmalarına olanak tanıyan özgün teknolojidir [36]."
+        ]
+    },
+    "Çekirdek": {
+        "tanım": "Çekirdek; ökaryotik hücrelerde genetik materyali (DNA) çevreleyen ve büyüme, farklılaşma, bölünme, üreme gibi hücre aktivitelerini düzenleyen zarla kaplı özelleşmiş hücre organelidir [37].",
+        "ek_bilgi": [
+            "Prokaryotik hücrelerde çekirdek bulunmaz [37].",
+            "Hücre çekirdeği; çekirdek zarfı, çekirdek sıvısı (nükleoplazma) ve çekirdekçik adı verilen yapılardan oluşur [37].",
+            "Çekirdek kromatin adı verilen DNA iplikçiklerini içerir [37].",
+            "Ökaryotik hücrelerde DNA, çekirdek içerisinde kromatin (DNA ipliği) şeklinde organize olur [38].",
+            "Sitoplazma ve çekirdek arasında iki yönlü madde alışverişi yapılır [38].",
+            "Bu madde geçişi, çekirdek zarfı üzerinde bulunan ve nüklear por adı verilen özelleşmiş geçitler ile sağlanır [38].",
+            "Sitoplazmada sentezlenmiş proteinler, DNA ve RNA sentezinde görevli enzimler ve küçük iyonlar; nüklear porlar aracılığıyla çekirdeğin içine geçer [38].",
+            "Çekirdekte sentezlenen bazı RNA molekülleri nüklear porlar aracılığıyla sitoplazmaya geçer [38]."
+        ]
+    },
+    "Çekirdek zarfı": {
+        "tanım": "Çekirdek zarfı, kromatinleri çevreleyen çift katlı zar yapıdır [38].",
+        "ek_bilgi": []
+    },
+     "Deplazmoliz": {
+        "tanım": "Deplazmoliz, plazmolize uğramış bir hücrenin su alarak tekrar eski haline dönmesidir [3, 6].",
+        "ek_bilgi": []
+    },
+    "Derisi Dikenliler": {
+        "tanım": "Derisi dikenliler, vücutlarında bulunan deri dikenleri, su kanalları, sert iskelet veya tüp ayaklar gibi belirgin özelliklere sahip omurgasız canlılardır [20].",
+        "ek_bilgi": [
+            "Denizyıldızları, denizkestaneleri, denizhıyarları ve deniz salyangozları gibi birçok türü bulunur [20]."
+        ]
+    },
+    "Difüzyon": {
+        "tanım": "Difüzyon, maddelerin çok yoğun ortamdan az yoğun ortama doğru kendiliğinden yayılmasıdır [3, 6].",
+        "ek_bilgi": [
+             "Salataya tuz döküldüğünde tuz molekülleri, yüksek konsantrasyonlu bölgeden (salataya dökülen tuzun bulunduğu bölge) düşük konsantrasyonlu bölgeye (sebzelerin iç kısmı) doğru hareket eder [39].",
+             "Bu hareketle tuz, sebzelerin yüzeyine ve iç kısımlarına yayılır [39].",
+             "Salataya tuz eklenmesiyle gerçekleşen kimyasal ve fiziksel değişikliklerin nedeni, suyun ve küçük moleküllerin hareketidir [39]."
+        ]
+    },
+    "Domain": {
+        "tanım": "Domain (üst âlem), canlıların sınıflandırmasında âlemin üstünde yer alan en yüksek kategoridir [40].",
+        "ek_bilgi": [
+            "Üçlü domain sisteminde yer alan canlılar, ortak özelliklerinin yanı sıra birbirlerinden farklı birçok özellik taşır [11]."
+        ]
+    },
+     "Doğal sınıflandırma": {
+        "tanım": "Günümüzde akrabalık ilişkilerine göre yapılan sınıflandırma sistemi doğal (modern = filogenetik) sınıflandırma olarak adlandırılmaktadır [41].",
+        "ek_bilgi": [
+            "Doğal sınıflandırmada canlıların morfolojik, anatomik, fizyolojik, genetik vb. birçok özelliğinden yararlanılır [41].",
+            "Moleküler biyoloji yöntemlerindeki gelişmeler, DNA ve RNA dizilerinin incelenmesini ve karşılaştırılmasını mümkün hâle getirmektedir [41].",
+            "Moleküler biyoloji yöntemlerindeki gelişmeler, canlılar arasındaki akrabalık ilişkilerinin moleküler düzeyde belirlenmesine oldukça önemli katkılar sağlamaktadır [41]."
+        ]
+    },
+    "Döllenme": {
+        "tanım": "Döllenme, dişi ve erkek üreme hücrelerinin birleşmesidir [6, 42].",
+        "ek_bilgi": []
+    },
+     "Eklem bacaklılar": {
+        "tanım": "Eklem bacaklılar, vücutları segmentli, eklemli bacaklara sahip omurgasız hayvan grubudur [6, 15].",
+        "ek_bilgi": [
+            "Eklem bacaklılar, hayvanlar âleminin en kalabalık ve çeşidi en fazla olan gruplarından biridir [15].",
+            "Eklem bacaklıların adaptasyon yetenekleri oldukça gelişmiştir [15].",
+            "Bu grubun üyeleri organik yapılı sert bir dış kabuğa, parçalı bir gövdeye ve eklemli oldukları için bükülebilen uzuvlara sahiptir [15].",
+            "Eklem bacaklılar arasında birçok farklı tür bulunur [15].",
+            "Böcek, örümcek, akrep, yengeç bu gruba dâhildir [15]."
+        ]
+    },
+     "Ekosistem": {
+        "tanım": "Ekosistem, komüniteyi oluşturan tüm canlıların canlı ve cansız varlıklarla etkileşimidir [30].",
+        "ek_bilgi": [
+            "Ekosistem, belirli bir alanda bulunan canlılar topluluğu ile bu canlıların içinde yaşadığı cansız çevre arasındaki etkileşim ağıdır [6].",  
+            "Canlılar için yaşam alanları ekosistem oluşturur [19].",
+            "Ekosistemlerin korunması biyolojinin katkıda bulunduğu alanlardandır [33].",
+            "Ekosistemlerin canlı ve cansız bileşenleri arasındaki etkileşimler ile bu bileşenler arasındaki dengenin korunması biyoloji biliminin rolünün çok büyük olduğu alanlardandır [34]."
+        ]
+    },
+    "Ekosistem çeşitliliği": {
+        "tanım": "Ekosistem çeşitliliği farklı ekosistem türlerinin varlığını gösterir [30].",
+        "ek_bilgi": [
+            "Bir coğrafyada farklı koşulları sunan birçok ekosistem çeşidinin bulunması, zengin tür topluluklarının neslinin sürdürmesini güvence altına alır [30]."
+        ]
+    },
+    "Ekzositoz": {
+        "tanım": "Ekzositoz, hücre içindeki büyük moleküllerin veya atık maddelerin hücre zarı kullanılarak hücre dışına atılmasıdır [3, 6].",
+        "ek_bilgi": [
+            "Ekzositoz, hücre zarının büyümesine neden olan geçiş yöntemlerindendir [43]."
+        ]
+    },
+     "Endemik tür": {
+        "tanım": "Endemik tür, belirli bir coğrafi bölgeye özgü olan ve başka bir yerde doğal olarak bulunmayan türdür [6].",
+        "ek_bilgi": [
+            "Baytop’un çöveni (Gypsophila baytopiorum), Anadolu teke dikeni (Lycium anatolicum) Türkiye’nin endemik bitki çeşitliliğinin örneklerindendir [32].",
+             "Uludağ gökçesi (Anterastes uludaghensis), Antalya yayın çekirgesi (Parapoecilimon antalyaensis) gibi endemik böcek türleri Türkiye'nin fauna zenginliğini anlamamıza yardımcı olmuştur [32]."
+        ]
+    },
+    "Endositoz": {
+        "tanım": "Endositoz, hücrenin dış ortamdan büyük molekülleri veya maddeleri hücre zarı kullanarak içeri almasıdır [3, 6].",
+        "ek_bilgi": [
+            "Endositoz, hücre zarının küçülmesine neden olan geçiş yöntemlerindendir [43]."
+        ]
+    },
+    "Endosperm": {
+        "tanım": "Endosperm, tohumda embriyoyu besleyen besin dokusudur [6, 29].",
+        "ek_bilgi": []
+    },
+     "Etik": {
+        "tanım": "Etik; belirli bir çalışma faaliyetinde bulunan insanların ahlaki ilkelerini, davranış biçimlerini, görevlerini ve sorumluluklarını belirleyen kurallar olarak tanımlanır [22].",
+        "ek_bilgi": []
+    },
+    "Eşeysiz üreme": {
+        "tanım": "Eşeysiz üreme, tek ata bireyden döllenme olmaksızın yeni yavruların oluşması olarak tanımlanan ve türlerin sürdürülmesini sağlayan bir süreçtir [42].",
+        "ek_bilgi": [
+            "Eşeysiz üreme, tek bir atadan döllenme olmaksızın yeni bireylerin oluşmasıdır [6].", 
+            "Eşeysiz üreme tek hücreli canlılarda görülür [42].",
+            "Eşeysiz üreme bazı bitkilerde görülür [42].",
+            "Eşeysiz üreme omurgasız hayvanlarda görülür [42]."
+        ]
+    },
+    "Eşeyli üreme": {
+        "tanım": "Eşeyli üreme, dişi ve erkek üreme hücrelerinin birleşmesi (döllenme) sonucu yeni bireylerin oluşmasıdır [6, 42].",
+        "ek_bilgi": [
+             "Eşeyli üremede dişi ve erkek üreme hücrelerinin birleşmesi (döllenme) gerçekleşir [42].",
+             "Eşeyli üremede farklı özelliklere sahip yavrular oluşur [42].",
+             "Bitki ve hayvanların çoğu eşeyli ürer [42].",
+             "Omurgalılara ait canlılar eşeyli olarak ürer [20].",
+             "Memelilerin çoğunda eşeyli üreme görülür [44]."
+        ]
+    },
+    "Fagositoz": {
+        "tanım": "Fagositoz, katı maddelerin hücre içine alınmasıdır [3].",
+        "ek_bilgi": []
+    },
+    "Gelişme": {
+        "tanım": "Gelişme, bir canlının yapısal ve işlevsel olarak olgunlaşmasıdır [6].",
+        "ek_bilgi": [
+             "Gelişme, canlının sahip olduğu yapıların zamanla belirli bir görevi yapma olgunluğuna erişmesidir [35]."
+        ]
+    },
+    "Gözlem": {
+        "tanım": "Gözlem, bilimsel bir araştırmanın ilk aşaması olarak kabul edilir [45].",
+        "ek_bilgi": [
+            "Gözlem, duyu organları ve bazı araç gereçler kullanılarak bilgi toplanması şeklinde tanımlanır [45].",
+            "Gözlem, olayların ve süreçlerin sistemli ve dikkatli bir şekilde incelenmesini içermektedir [45].",
+            "Gözlemler hipotezlerin geliştirilmesine, deneylerin oluşturulmasına ve sonuçların yorumlanmasına yardımcı olur [45].",
+            "Bilimsel gözlem, dikkatle izlemeyi ve incelemeyi gerektirir [46]."
+        ]
+    },
+    "Hayvanlar": {
+        "tanım": "Hayvanlar yaşamlarının belirli bir döneminde notokord adı verilen esnek ve ilkel bir iskelete sahiptir [47].",
+        "ek_bilgi": [
+            "Hayvanlar ekosistemdeki besin zincirinin önemli bir parçasıdır [19].",
+            "Hayvanlar bitkilerin üreme hücrelerinin taşınmasında görev alır [19]."
+        ]
+    },
+    "Heterotrof": {
+        "tanım": "Heterotrof, kendi besinini üretemeyip dışarıdan hazır alan canlılardır [6].",
+        "ek_bilgi": [
+             "Prokaryotik canlılar beslenmelerini heterotrof olarak gerçekleştirebilir [17].",
+             "Mantarlar heterotrof canlılardır (kendi besinlerini üretemez) [18].",
+             "Canlıların tamamı beslenmek zorundadır ve bazıları (heterotroflar) besinlerini dış ortamdan hazır alır [16]."
+        ]
+    },
+    "Histoloji": {
+        "tanım": "Histoloji, doku bilimidir [6, 48].",
+        "ek_bilgi": [
+            "Taksonomi bilimi; canlıları tanımlama çalışmalarında histolojiden yararlanır [48]."
+        ]
+    },
+     "Histon": {
+        "tanım": "Histonlar, DNA’nın etrafına sarıldığı proteinlerdir [6, 10, 11].",
+        "ek_bilgi": [
+             "Ökaryotlar, kromozom yapılarında bulunan proteinler (histon) açısından bakterilerden ayrılır [11].",
+             "Ökaryot hücrelerin genetik materyali (DNA), histon adı verilen proteinler üzerine sarımlanarak hücre bölünmesi sürecinde DNA’nın sıkıca paketlenmesini sağlar [10]."
+        ]
+    },
+     "Hipertonik çözelti": {
+        "tanım": "Hipertonik çözelti, hücrenin su kaybederek büzülmesine neden olan, yoğunluğu hücre sitoplazmasından daha yüksek çözeltidir [3, 6].",
+        "ek_bilgi": [
+            "Salataya tuz döküldüğünde tuz hipertonik bir ortam oluşturur [39]."
+        ]
+    },
+     "Hipotez": {
+        "tanım": "Hipotez, belirli bir durumun ya da olayın nedeninin, bağlantısının veya sonucunun açıklanması için sunulan bir önermedir [49].",
+        "ek_bilgi": [
+            "Hipotez, bilimsel süreçteki bir sonraki aşamadır ve gözlemlere dayalıdır [49].",
+            "Hipotez; deneysel yöntemler veya gözlemler kullanılarak test edilebilir olmalıdır [49].",
+            "Hipotez; doğruluğu ya da yanlışlığı ispatlanabilir olmalıdır [49].",
+             "Ayrıntılı gözlemler bilim insanlarının varsayımlar geliştirmesine yardımcı olur [50]."
+        ]
+    },
+    "Hipotonik çözelti": {
+        "tanım": "Hipotonik çözelti, hücrenin su alarak şişmesine neden olan, yoğunluğu hücre sitoplazmasından daha düşük çözeltidir [3, 6].",
+        "ek_bilgi": []
+    },
+    "Holozoik beslenme": {
+        "tanım": "Holozoik beslenme, besinleri katı parçacıklar halinde alıp sindirerek beslenme şeklidir [6].",
+        "ek_bilgi": [
+            "Omurgalı canlılar holozoik beslenir [20].",
+            "Ağız ve anüs arasında yer alan sindirim sistemleri sayesinde besinler holozoik olarak alınır ve sindirilir [20]."
+        ]
+    },
+    "Homeostazi": {
+        "tanım": "Homeostazi, canlının iç çevresini kararlı tutma eğilimidir [6].",
+        "ek_bilgi": [] 
+    },
+     "Hücre": {
+        "tanım": "Hücre, canlıların temel yapı ve işlev birimidir [6].",
+        "ek_bilgi": [
+            "Hücre tüm canlılarda ortaktır ve bazı canlılar prokaryot, bazıları ökaryot hücre yapısına sahiptir [52]." 
+        ]
+    },
+    "Hücre duvarı": {
+        "tanım": "Hücre duvarı, bitki, bakteri ve mantar hücrelerinde hücre zarının dışında bulunan koruyucu ve destekleyici yapıdır [6].",
+        "ek_bilgi": [
+            "Üçlü domain sisteminde hücre duvarı, bakteriler, arkeler ve ökaryotları ayıran özelliklerdendir [11].",
+            "Neredeyse tamamı kalın ve sert bir hücre duvarına sahip prokaryotik canlılar bulunur [17]."
+        ]
+    },
+     "Hücre zarı (plazma zarı)": {
+        "tanım": "Hücre zarı; hücreyi çevreleyen, koruyan, hücreye yapısal destek sağlayan ve hücre içindeki maddelerin dengesini sağlayan temel hücre bileşenidir [53].",
+        "ek_bilgi": [
+            "Hücre zarı, hücreyi dış ortamdan ayıran, seçici geçirgen zar yapısıdır [6].",
+            "Bütün hücreler hücre zarı (plazma zarı) denen seçici geçirgen bir bariyerle çevrilidir [54].",
+            "Hücre zarı, çift katlı lipit tabakasından oluşur [53].",
+            "Hücre zarının suyu sevmeyen özelliklerinden dolayı maddelerin geçişine önemli sınırlandırmalar getirir [53].",
+            "Genel olarak küçük, yüksüz moleküller ile yağ yapılı ya da yağda çözünen maddeler zardan kolaylıkla geçer [53].",
+            "Büyük, yüklü veya suda çözünen maddelerin zardan geçişi için yardımcı yapılara ihtiyaç vardır [53].",
+            "Bu yardımcı yapılar zarın içine konumlanan, iç ve dış yüzeyi ile temas hâlinde olan taşıma ve kanal proteinleridir [53]."
+        ]
+    },
+    "İletim demeti": {
+        "tanım": "İletim demeti, bitkilerde su, mineral ve besinlerin taşınmasını sağlayan özelleşmiş dokudur [6].",
+        "ek_bilgi": [
+             "Su ve besinlerin taşınımı, iletim demeti adı verilen gelişmiş taşıma kanalları aracılığıyla gerçekleşir [29].",
+             "Tohumsuz bitkilerde iletim demetleri basit yapılıdır [29].",
+             "Özellikle ciğer otları ve kara yosunları gibi tohumsuz bitkilerde belirgin bir iletim demeti sistemi bulunmaz [29]."
+        ]
+    },
+     "İntihal": {
+        "tanım": "İntihal, başkasına ait fikir, veri veya yazıyı kaynak göstermeden kullanmadır [6].",
+        "ek_bilgi": [
+            "Başkalarının yöntemlerini, verilerini, görüşlerini, yazılarını ve şekillerini sahiplerini kaynak göstermeden (atıf yapmadan) kullanmak etik dışı davranışlara örnektir [23]."
+        ]
+    },
+    "İzotonik çözelti": {
+        "tanım": "İzotonik çözelti, yoğunluğu hücre sitoplazmasına eşit olan ve hücrede değişiklik yaratmayan çözeltidir [3, 6].",
+        "ek_bilgi": []
+    },
+    "Kohezyon": {
+        "tanım": "Kohezyon, aynı tür moleküllerin birbiri arasındaki çekim kuvvetidir [1].",
+        "ek_bilgi": [
+            "Suyun bir araya gelerek bir damla oluşturması veya dolu bir tüpün ağzında bombe oluşturması gibi durumlar kohezyon örnekleridir [1].",
+            "Su, yüksek adezyon ve kohezyon özelliklerine sahiptir [1].",
+            "Bitkilerde suyun köklerden yukarı taşınması suyun adezyon ve kohezyon özelliğiyle sağlanır [1]."
+        ]
+    },
+     "Kolaylaştırılmış difüzyon": {
+        "tanım": "Kolaylaştırılmış difüzyon, taşıyıcı proteinlerle madde geçişidir [3].",
+        "ek_bilgi": []
+    },
+    "Koloni": {
+        "tanım": "Koloni, birlik durumda yaşayan aynı türden organizmaların oluşturduğu topluluktur [6, 17].",
+        "ek_bilgi": [
+            "Değişen çevre koşullarına uyum sağlama yetenekleriyle bilinen prokaryotik canlılar, uygun ortamlarda çok hızlı çoğalıp koloni oluşturabilmektedir [17].",
+            "Protistler koloniler oluşturarak gözle görülür boyutlara ulaşabilir [55]."
+        ]
+    },
+    "Komünite": {
+        "tanım": "Komünite, belirli sınırlar içerisinde birbiri ile etkileşime girecek kadar yakın yaşayan, farklı türlerin oluşturduğu biyolojik yapıdır [6, 30].",
+        "ek_bilgi": [
+             "Ekosistem, komüniteyi oluşturan tüm canlıların canlı ve cansız varlıklarla etkileşimidir [30]."
+        ]
+    },
+     "Kontrollü deney": {
+        "tanım": "Kontrollü deneylerde araştırmacı tarafından değiştirilen ve etkisi araştırılan değişkene bağımsız değişken, bağımsız değişkene bağlı olarak değişen diğer değişkene ise bağımlı değişken denir [56].",
+        "ek_bilgi": [
+            "Hipoteze dayalı tahminleri test etmek için genellikle kontrollü bir deney tasarlanır veya bilimsel kaynaklardan kanıtlar toplanır [56].",
+            "Deney sırasında ve kaynak araştırmasında veriler ya da bilgiler toplanır ve analiz edilmek üzere kaydedilir [56]."
+        ]
+    },
+     "Kromozom": {
+        "tanım": "Kromozom, genetik bilginin taşıyıcısı olan DNA ve protein kompleksidir [6].",
+        "ek_bilgi": [
+             "Yapısında genetik bilginin kodlu olduğu DNA’yı taşıyan kromozomlar bütün hücrelerde bulunur [54].",
+             "Üçlü domain sisteminde kromozom yapıları, bakteriler, arkeler ve ökaryotları ayıran özelliklerdendir [11].",
+             "Prokaryotik canlılarda genetik materyal olarak halkasal yapıda büyük ve tek bir kromozomal DNA bulunur [17].",
+             "Ökaryotlarda çok sayıda iplik şeklinde doğrusal DNA bulunur [54].",
+             "Ökaryot hücrelerin genetik materyali (DNA), histon adı verilen proteinler üzerine sarımlanarak hücre bölünmesi sürecinde DNA’nın sıkıca paketlenmesini sağlar [10].",
+             "Kromatin, hücre çekirdeği içinde bulunan DNA iplikçikleridir [37]."
+        ]
+    },
+    "Kuşlar": {
+        "tanım": "Kuşlar sabit vücut sıcaklığına sahip olan hayvanlardır [44].",
+        "ek_bilgi": [
+            "Kuşların tüy ve kanatları vardır [44].",
+            "Kuşların vücutları aerodinamiktir [44].",
+            "Kuşların kemikleri içi boş ve hafiftir [44].",
+            "Kuşlar akciğer solunumu yapar ve hava keseleri vardır [44].",
+            "Kuşlarda iç döllenme ve dış gelişme görülür [44].",
+            "Kuşların yumurtaları sert kabukludur [44].",
+            "Kuşlar kuluçkaya yatar ve yavru bakımı görülür [44]."
+        ]
+    },
+    "Mantarlar": {
+        "tanım": "Mantarlar âleminde yer alan canlılar, ökaryotik hücre yapısına sahiptir [18].",
+        "ek_bilgi": [
+            "Mantarlar genel olarak çok hücrelidir ancak tek hücreli olanları da vardır [18].",
+            "Mantarlar kendi besinlerini üretemez [18].",
+            "Mantarlar çoğunlukla dış ortama salgıladıkları enzimleriyle organik artıkları daha küçük birimlere ayrıştırır (çürükçül) ve açığa çıkan sindirilmiş besinleri alarak besinlerini temin eder [18].",
+            "Mantarlar doğal ortamdaki organik artıkların döngüsünde önemli rol üstlenir [18].",
+            "Günümüzde bakteri kaynaklı hastalıkların tedavisinde kullanılan, başta penisilin olmak üzere, pek çok antibiyotik mantarlardan elde edilir [19].",
+            "Saçkıran, pamukçuk ve ayak mantarı rahatsızlıklarına neden olan bazı parazit mantarlar da üzerinde yaşadığı canlıyı olumsuz etkiler [19]."
+        ]
+    },
+    "Memeliler": {
+        "tanım": "Memeliler, meme bezlerine sahip canlılar olup yavrularını sütle besler [44].",
+        "ek_bilgi": [
+            "Memelilerde yavru bakımı görülür [44].",
+            "Memelilerin akciğerlerinde alveol bulunur [44].",
+            "Memelilerin olgun alyuvarları çekirdeksizdir [44].",
+            "Memeliler kuşlar gibi vücut ısılarını sabit tutar [44].",
+            "Kaslı diyaframa ve ter bezlerine sahip olma memelilerin genel özellikleri arasındadır [44].",
+            "Memeliler genellikle kara yaşamına uyum sağlar ve vücutlarında kıl bulundurur [44].",
+            "Memelilerin suda yaşamaya uyum gösteren ve uçabilen türleri de bulunmaktadır [44].",
+            "Memelilerin çoğunda eşeyli üreme görülür [44].",
+            "Yumurtlayan memeliler dışında tüm memelilerde iç döllenme ve iç gelişme görülür [44].",
+            "Keseli memelilerde kısa süren gebeliğin ardından doğan yavru, gelişimini annesinin kesesinde tamamlar [44].",
+            "Plasentalı memelilerde gebelik nispeten daha uzundur [44].",
+            "Yaşam ortamlarına göre suda yaşayan memeliler (balina, fok ve yunuslar) yüzme yeteneğine sahiptir [13].",
+            "Yaşam ortamlarına göre karada yaşayan memeliler (deve, aslan ve koyunlar) yürüme ve koşma yeteneğine sahiptir [13].",
+            "Yarasalar uçma yeteneği gelişmiş memelilerdir [13].",
+            "Sabit vücut sıcaklığına sahip memeliler kışın besin bulmada sorun yaşayabilir [13].",
+            "Bu memeliler vücut sıcaklığını düşürerek, yaşamsal faaliyetler için gerekli enerjilerini saklayarak hayatta kalmayı başarabilir [13].",
+            "Ayı, sincap, kirpi, dağ sıçanı gibi memeli canlılar kış uykusuna yatmadan önce pasif oldukları dönemde harcanacak enerji için besini vücutlarında depolar [13]."
+        ]
+    },
+    "Mikrotübül": {
+        "tanım": "Mikrotübüller, hücrenin iskeletini oluşturan ve hücre içinde madde taşınmasında görev alan yapısal proteinlerdir [57].",
+        "ek_bilgi": [
+             "Sentrozomlar, hayvan hücrelerinde mikrotübül adı verilen boru benzeri proteinlerin ve onu çevreleyen yoğun kimyasal ortamın oluşturduğu yapılardır [57].",
+             "Sentrozomlar hayvan hücrelerindeki mikrotübülün üretim merkezidir [57].",
+             "Sentrozom içerisinde boru şeklindeki her bir alt birim sentriyol olarak adlandırılır [57].",
+             "Sentrozomlar tarafından üretilen mikrotübül yapıdaki iplikçikler, hücre bölünmesinde kromozomların ayrılması sürecinde görev alır [57].",
+             "Sentrozomlar tarafından üretilen mikrotübül yapıdaki iplikçikler, hücrelerden uzanan sil ve kamçı gibi sitoplazmik çıkıntıların oluşturulmasında görev alır [57]."
+        ]
+    },
+    "Nüklear por": {
+        "tanım": "Nüklear por, çekirdek zarfı üzerinde bulunan ve sitoplazma ve çekirdek arasında iki yönlü madde alışverişini sağlayan özelleşmiş geçitlerdir [38].",
+        "ek_bilgi": []
+    },
+    "Nükleoid": {
+        "tanım": "Nükleoid, prokaryot hücrelerde genetik materyalin bulunduğu sitoplazma bölgesidir [6, 54].",
+        "ek_bilgi": [
+            "Prokaryotlarda genetik bilgi, sitoplazmanın daha yoğun bir bölgesi olan ve nükleoid adı verilen bölgede yoğunlaşmıştır [54]."
+        ]
+    },
+    "Nükleoplazma": {
+        "tanım": "Nükleoplazma, kromatinlerin içinde bulunduğu sıvı ortamdır [38].",
+        "ek_bilgi": []
+    },
+     "Nükleotitler": {
+        "tanım": "Nükleotitler, yapılarında riboz şekeri bulundurduğunda ribonükleotit ve deoksiriboz şekeri bulundurduğunda ise deoksiribonükleotit olarak adlandırılır [58].",
+        "ek_bilgi": [
+            "Nükleotitlerin yapısında bulunan azotlu organik bazlar pürin ve pirimidin olmak üzere iki çeşittir [58]."
+        ]
+    },
+    "Omurgalılar": {
+        "tanım": "Omurgalılar, vücudunda omurga sütunu bulunan hayvanlardır [6].",
+        "ek_bilgi": [
+            "Omurgalı hayvanların en önemli özellikleri, notokord adı verilen yapıya ve sırt bölgesinde içi boş bir sinir kordonuna (sinir şeridi) sahip olmalarıdır [20].",
+            "Omurgalılarda kıkırdak ve kemikten oluşmuş iç iskelet bulunur [20].",
+            "Omurgalılara ait canlılar eşeyli olarak ürer [20].",
+            "Omurgalı canlılar holozoik beslenir [20].",
+            "Omurgalı canlıların boşaltım atıkları; amonyak, ürik asit ya da üredir [20].",
+            "Omurgalıların temel boşaltım organları böbreklerdir [20].",
+            "Kanın kan damarları dışına çıkmadan vücut içerisinde dolaştığı (kapalı kan dolaşımı) omurgalı canlılar bulunur [14].",
+            "Omurgalı canlılarda oksijenin taşınmasında görevli hemoglobin proteini alyuvarların içinde bulunur [14].",
+            "Omurgalı hayvanlar; balıklar, amfibiler (iki yaşamlılar), sürüngenler, kuşlar ve memeliler olmak üzere beş sınıfta incelenir [14]."
+        ]
+    },
+    "Omurgasızlar": {
+        "tanım": "Omurgasızlar, vücudunda omurga sütunu bulunmayan hayvanlardır [6].",
+        "ek_bilgi": [
+             "Hayvanlar, notokordun bulunup bulunmamasına göre omurgasız ve omurgalı olmak üzere iki ana gruba ayrılır [47].",
+             "Omurgasızlarda notokord yoktur [47].",
+             "Böcekler, yumuşakçalar, kabuklular, eklem bacaklılar, deniz süngerleri gibi organizmaları içine alan grup omurgasızlardır [47]."
+        ]
+    },
+     "Organizasyon": {
+        "tanım": "Bir fabrikada her birimin farklı görevleri vardır ve işlerin doğru ilerlemesi için iş bölümü ve iletişim olmalıdır; hücrelerde de benzer şekilde düzen içinde bir işleyiş ve farklı görevleri olan alt birimler bulunur [59].",
+        "ek_bilgi": [
+            "Fabrikanın yönetim merkezi, hücre çekirdeğine benzetilebilir [59].",
+            "Hücre çekirdeği, hücrede gerçekleşen bütün olayları yönetir [59].",
+            "Fabrikadaki her bir alt birim hücre organelleri gibidir [59].",
+            "Fabrikada malzeme girişi ve çıkışı daima kontrol altındadır, hücrede de bu şekilde bir kontrol mekanizması vardır [59].",
+            "Hücre zarının seçici geçirgen özelliği sayesinde hücrenin içine giren ve dışına çıkan maddeler belirlenir [59].",
+            "Hücreler, yüksek çözünürlüklü mikroskoplarda incelendiğinde oldukça karmaşık bir iç yapıya sahip oldukları görülür [59]."
+        ]
+    },
+     "Ototrof": {
+        "tanım": "Ototrof, kendi besinini üretebilen canlılardır (fotosentez veya kemosentez yoluyla) [6].",
+        "ek_bilgi": [
+             "Prokaryotik canlılar beslenmelerini ototrof olarak gerçekleştirebilir [17].",
+             "Canlıların tamamı beslenmek zorundadır ve bazıları (ototroflar) besinlerini kendisi üretir [16]."
+        ]
+    },
+    "Ozmoz": {
+        "tanım": "Ozmoz, suyun yarı geçirgen zardan az yoğun ortamdan çok yoğun ortama doğru geçişidir [3, 6, 60].",
+        "ek_bilgi": [
+            "Hücre zarı veya benzeri bir yapı üzerinde madde geçişi gerçekleşirken suda çözünen büyük moleküllerin geçişi kısıtlanır ancak zar, suyun geçişine izin verir [60].",
+            "Suyun az yoğun ortamdan çok yoğun ortama doğru hareket etmesi ozmozdur [60].",
+            "Suyun doğrudan geçişi, suyun polar bir molekül olması nedeniyle oldukça sınırlıdır [60].",
+            "Canlı hücrelerin zar yapısında bulunan kanal proteinleri, suyun zarlar arasında hızlı hareket etmesini sağlar [60].",
+            "Suyun az yoğun ortamdan çok yoğun ortama geçişi (ozmoz) bir süre sonra dengelenir [60].",
+             "Salataya tuz döküldüğünde su, hipotonik ortamdan (hücre içinden) hipertonik ortama (hücre dışına) doğru ozmoz yoluyla hareket eder [39].",
+             "Suda bekletilen patatesin içine su alması ozmoz ile ilişkilidir [61].",
+             "Sirke içerisinde belirli bir süre bekletilen çiğ yumurta, sulu bir ortama koyulduğunda şişer, bunun nedeni ozmoz olabilir [61]."
+        ]
+    },
+    "Ozmotik basınç": {
+        "tanım": "Ozmotik basınç, denge durumunda başlangıçta madde yoğunluğu fazla olan bölgedeki suyun zara yapmış olduğu kuvvettir [6, 60].",
+        "ek_bilgi": [
+             "Ozmotik potansiyel arttıkça ozmoz olayının gerçekleşmesi için gerekli güç miktarı artar [60].",
+             "Bu emiş gücü ozmotik basınca eşittir [60]."
+        ]
+    },
+     "Ozmotik potansiyel": {
+        "tanım": "Ozmotik potansiyel, çözünmüş maddeler nedeniyle bir çözeltinin su alma isteğidir [6, 60].",
+        "ek_bilgi": [
+            "Ozmotik potansiyel arttıkça ozmoz olayının gerçekleşmesi için gerekli güç miktarı da artar [60]."
+        ]
+    },
+    "Pasif taşıma": {
+        "tanım": "Pasif taşıma, enerji harcanmadan gerçekleşen madde geçişidir (difüzyon, ozmoz) [3, 6].",
+        "ek_bilgi": []
+    },
+    "Penisilin": { 
+        "tanım": "Penisilin, mantarlardan elde edilen, bakteriyel enfeksiyonların tedavisinde kullanılan bir antibiyotiktir [6].",
+        "ek_bilgi": [
+            "Penisilin adlı antibiyotiğin keşfi biyoloji, tıp ve sağlık bilimleri alanında önemli bir dönüm noktasıdır [62].",
+            "Önceden ölümcül olan birçok hastalık penisilin sayesinde kontrol altına alınabilmiştir [62].",
+            "Cerrahi müdahalelerin ve diğer tıbbi tedavilerin güvenilirliği artırılmış ve bu sayede hastalıkların kolaylıkla tedavi edilmesi sağlanmıştır [62].",
+            "Günümüzde antibiyotiklere dirençli mikroorganizmaların artışına rağmen penisilin ve türevleri hâlâ en etkili antibiyotikler içerisinde yer almaktadır [62]."
+        ]
+    },
+     "Perde ayak": {
+        "tanım": "Perde ayak, ayak parmakları arasında zar bulunan yapıdır [6].",
+        "ek_bilgi": [
+             "Su kuşlarında ayak parmaklarının perdeli yapıda olması adaptasyona örnektir [2]."
+        ]
+    },
+     "Pilus": {
+        "tanım": "Pilus, bakterilerin birbirine tutunmasını sağlayan uzantıdır [6].",
+        "ek_bilgi": [
+            "Prokaryotik canlılar Pilus isimli yapılarıyla birbirlerine tutunur [17]."
+        ]
+    },
+    "Pirimidin": {
+        "tanım": "Pirimidinler, tek halkalı azotlu organik bazlardır (sitozin, timin, urasil) [6, 58].",
+        "ek_bilgi": [
+            "Nükleotitlerin yapısında bulunan azotlu organik bazlar pürin ve pirimidin olmak üzere iki çeşittir [58].",
+            "Pirimidinler, pürinlerden daha küçük ve basittir [58]."
+        ]
+    },
+    "Plankton": {
+        "tanım": "Plankton, denizlerde veya tatlı sularda genellikle yüzeye yakın bölgelerde yaşayan mikroskobik organizmaların genel adıdır [6, 63].",
+        "ek_bilgi": []
+    },
+    "Plasenta": {
+        "tanım": "Plasenta, memelilerde yavrunun anne karnında beslenmesini sağlayan yapıdır [6, 44].",
+        "ek_bilgi": [
+            "Plasenta, yavru ve anne arasında besinlerin ve atıkların geçişini sağlar [44]."
+        ]
+    },
+    "Plazmit": {
+        "tanım": "Plazmit, bakterilerde ve bazı ökaryotlarda bulunan küçük, halkasal DNA molekülüdür [6].",
+        "ek_bilgi": [
+            "Prokaryotik canlılarda genetik materyal olarak halkasal yapıda büyük ve tek bir kromozomal DNA bulunur, ayrıca plazmit adı verilen küçük DNA halkaları da bulunabilmektedir [17]."
+        ]
+    },
+    "Plazmoliz": {
+        "tanım": "Plazmoliz, hücrenin su kaybederek büzülmesidir [3, 6].",
+        "ek_bilgi": []
+    },
+     "Prokaryot": {
+        "tanım": "Prokaryot, belirgin çekirdeği ve zarlı organelleri bulunmayan hücre tipidir [6].",
+        "ek_bilgi": [
+            "Bakteriler ve arkeler, prokaryot hücre yapısındadır [11].",
+            "Prokaryot hücrelerde belirgin çekirdekleri ve zarla çevrili yapıları bulunmaz [11].",
+            "Prokaryot hücrelerde zarla çevrili organel yoktur [54].",
+            "Genetik materyal (DNA) açısındanyapı olarak prokaryotlar halkasal DNA molekülü içerir [54].",
+            "Genel olarak ökaryot hücreler, prokaryot hücrelerden daha büyüktür [54].",
+            "Değişen çevre koşullarına uyum sağlama yetenekleriyle bilinen prokaryotik canlılar bulunur [17].",
+            "Prokaryotik canlılar uygun ortamlarda çok hızlı çoğalıp koloni oluşturabilmektedir [17].",
+            "Çoğunluğu suyun akışı ve hava hareketi gibi çevresel koşulların etkisiyle pasif olarak hareket eden prokaryotik canlılar bulunur [17].",
+            "Prokaryotik canlıların bazıları kamçıları aracılığıyla hareket edebilmektedir [17].",
+            "Prokaryotik canlılar Pilus isimli yapılarıyla birbirlerine tutunur [17].",
+            "Neredeyse tamamı kalın ve sert bir hücre duvarına sahip prokaryotik canlılar bulunur [17].",
+            "Prokaryotik canlılarda genetik materyal olarak halkasal yapıda büyük ve tek bir kromozomal DNA bulunur [17].",
+            "Prokaryotik canlılarda plazmit adı verilen küçük DNA halkaları da bulunabilmektedir [17].",
+            "Prokaryotik canlılar beslenmelerini ototrof veya heterotrof olarak gerçekleştirir [17]."
+        ]
+    },
+    "Protista": {
+        "tanım": "Protistler, ökaryotik, genellikle tek hücreli veya basit çok hücreli canlıları içeren âlemdir [6, 55].",
+        "ek_bilgi": [
+            "Protistler biyolojik çeşitlilik bakımından oldukça zengin bir âlemdir [55].",
+            "Protistler genellikle mikroskobik boyutlarda olmalarına rağmen koloniler oluşturarak gözle görülür boyutlara ulaşabilir [55].",
+            "Amip, öglena, paramesyum gibi protistler tek hücreli yapıdadır [55].",
+            "Yeşil, kırmızı ve esmer algler birden fazla hücreden oluşan koloni veya organizmalar şeklinde yaşar [55].",
+            "Ökaryotik hücre yapılarına sahip olmaları protistleri prokaryotik organizmalardan ayıran en önemli farklılıktır [55]."
+        ]
+    },
+     "Pürin": {
+        "tanım": "Pürinler, çift halkalı azotlu organik bazlardır (adenin, guanin) [6, 58].",
+        "ek_bilgi": [
+            "Nükleotitlerin yapısında bulunan azotlu organik bazlar pürin ve pirimidin olmak üzere iki çeşittir [58].",
+            "Pürinler, iki halkalı yapılarıyla pirimidinlerden daha büyük ve karmaşıktır [58]."
+        ]
+    },
+     "Rekombinant DNA teknolojisi": {
+        "tanım": "Rekombinant DNA teknolojisi, farklı kaynaklardan elde edilen DNA parçalarının birleştirilerek yeni bir DNA molekülü oluşturulması tekniğidir [6].",
+        "ek_bilgi": [
+            "Rekombinant DNA teknolojisi 1973 yılında Cohen ve Boyer tarafından geliştirilmiştir [64]."
+        ]
+    },
+    "Ribozom": {
+        "tanım": "Ribozom, protein sentezleyen hücresel yapıdır [54, 65].",
+        "ek_bilgi": [
+             "Genlerin verdiği talimatlara uygun olarak protein sentezleyen ribozomlar bütün hücrelerde bulunur [54].",
+             "Ökaryotik hücrelerde çekirdekçik, ribozom yapım merkezi olarak adlandırılan bölümdür [38].",
+             "Prokaryot hücre yapısına sahip bakteriler ve arkeler birbirlerinden ribozomlarındaki RNA dizileri bakımından oldukça farklıdır [11]."
+        ]
+    },
+     "Sentrozomlar": {
+        "tanım": "Sentrozomlar, hayvan hücrelerinde mikrotübül üretim merkezidir [57].",
+        "ek_bilgi": [
+            "Sentrozomlar, hayvan hücrelerinde mikrotübül adı verilen boru benzeri proteinlerin ve onu çevreleyen yoğun kimyasal ortamın oluşturduğu, çapraz iki boru parçacığı görünümlü hücresel yapılardır [57]."
+        ]
+    },
+     "Sentriyol": {
+        "tanım": "Sentriyol, sentrozom içerisinde boru şeklindeki her bir alt birim olarak adlandırılır [57].",
+        "ek_bilgi": []
+    },
+     "Sil": {
+        "tanım": "Siller, hücre yüzeyinde bulunan, hareketi veya madde taşınmasını sağlayan kısa uzantılardır [65].",
+        "ek_bilgi": [
+            "Sentrozomlar tarafından üretilen mikrotübül yapıdaki iplikçikler, hücrelerden uzanan sil gibi sitoplazmik çıkıntıların oluşturulmasında görev alır [57]."
+        ]
+    },
+    "Sitoplazma": {
+        "tanım": "Sitoplazma, hücre zarı (ve ökaryotlarda çekirdek) arasındaki yarı akışkan maddedir [65].",
+        "ek_bilgi": [
+            "Hücre zarı, içinde hücre alt bileşenlerinin yer aldığı sitoplazma adı verilen yarı akışkan bir maddeyi çevreler [54].",
+            "Prokaryotlarda DNA sitoplazmanın daha yoğun bir bölgesi olan nükleoid adı verilen bölgede yoğunlaşmıştır [54]."
+        ]
+    },
+     "Spor": {
+        "tanım": "Spor, bitkilerin ya da tek hücreli hayvanların çok özelleşmiş olan ve hayatın devamlılığını sağlayan üreme yeteneğindeki hücreleridir [65].",
+        "ek_bilgi": []
+    },
+     "Sürüngenler": {
+        "tanım": "Sürüngenler, pullu derileri ve vücut sıcaklığının değişkenliğiyle bilinen omurgalı hayvanlardır [7].",
+        "ek_bilgi": [
+            "Sürüngenlerin vücutlarını kaplayan pullar, su kaybını önlemede ve dış etkilere karşı koruma sağlamada görevlidir [7].",
+            "Sürüngenler genellikle dört üyesi (kol/bacak) olmasına karşın üyeleri olmayan yılan gibi türleri de bulunmaktadır [7].",
+            "Sürüngenler; yılan, timsah, kaplumbağa, kertenkele, iguana gibi geniş bir çeşitliliğe sahiptir [7].",
+            "Sürüngenler akciğer solunumu yapar [7].",
+            "Bazı sürüngenlerde belirli aralıklarla deri değiştirme olayı (deri dökülmesi) görülür [7].",
+            "Sürüngenlerin embriyolarının etrafında koruyucu embriyonik zar (amniyon kesesi) bulunur [7].",
+            "Sürüngenlerin yumurtaları bir kabukla çevrilidir [7].",
+            "Sürüngenlerde iç döllenme ve dış gelişme görülür [7].",
+            "Timsah ve yılan gibi sürüngenler havaların soğumasına bağlı olarak vücutlarındaki işlevleri yavaşlatarak ya tamamen hareketsiz kalır ya da yavaş hareket eder [7]."
+        ]
+    },
+    "Tahmin": {
+        "tanım": "Tahmin, hipotezlerin doğruluğu test edilmeden hipotezden akıl yürütme yoluyla çıkarılan sonuçlardır [66].",
+        "ek_bilgi": [
+            "Tahmin, çalışmalarda zaman kaybını önleyerek araştırmaları kolaylaştırır [66].",
+            "Tahmin süreci, bilimsel bilginin gelişmesine ve doğrulanabilir sonuçların elde edilmesine katkıda bulunur [66]."
+        ]
+    },
+    "Takson": {
+        "tanım": "Takson, her bir sınıflandırma kategorisinde yer alan belirli ortak özelliklere sahip canlı grubudur [67].",
+        "ek_bilgi": [
+             "Takson, belli bir kategori içine sokulabilecek ve ad bakımından ayrı olmaya hak kazanmaya yetecek kadar farklı olan taksonomik kategoridir [65]." 
+        ]
+    },
+    "Taksonomi": {
+        "tanım": "Taksonomi, canlıları sınıflandırmak için gerekli olan tüm ilke ve ölçütleri belirleyen bilim dalıdır [65, 67].",
+        "ek_bilgi": [
+            "Taksonominin temelini dünyada yaşayan tüm canlıları belli yöntemlerle sınıflandırarak tanımak oluşturur [48].",
+            "Taksonomi, biyolojinin diğer alt dalları (alt disiplinleri) arasında öncü konumundadır [48].",
+            "Taksonomi bilimi; canlıları tanımalama çalışmalarında morfoloji, anatomi, histoloji, biyokimya, moleküler biyoloji gibi biyolojinin alt dallarından ve diğer bilimlerden de yararlanır [48].",
+            "Sistematik araştırmalar ile biyolojinin diğer alanlarına önemli katkılar sağlanır [48]."
+        ]
+    },
+    "Turgor basıncı": {
+        "tanım": "Turgor basıncı, hücre içindeki suyun hücre zarına yaptığı basınçtır [3].", 
+        "ek_bilgi": [
+             "Bitki hücrelerinde turgor basıncı, hücre duvarının, hücre içindeki suyun hücre zarına yaptığı basınca karşı gösterdiği dirençtir [65]."
+        ]
+    },
+    "Tür": {
+        "tanım": "Tür, kalıtsal olarak ortak karakterlere sahip, kendi aralarında verimli döl verebilen yavrular elde edilen bireylerin oluşturduğu canlı grubudur [28].",
+        "ek_bilgi": [
+             "Tür, diğer ifadeyle temel sınıflandırma birimidir [28].",
+             "Tür, kalıtsal olarak ortak özelliklere sahip, kendi aralarında verimli döl verebilen bireyler topluluğudur [65]."
+        ]
+    },
+    "Üçlü domain sistemi": {
+        "tanım": "Üçlü domain sistemi, tüm canlıları Bacteria, Archaea ve Eukarya olmak üzere üç üst âlemde gruplandıran sınıflandırma sistemidir [11].", 
+        "ek_bilgi": [
+             "Üçlü domain sisteminde yer alan canlılar, ortak özelliklerinin yanı sıra birbirlerinden farklı birçok özellik taşır [11].",
+             "Üçlü domain sistemi canlıları hücre tipi, hücre duvarı, hücre zarı ve kromozom yapıları, gen dizileri, metabolik ve ekolojik özellikleri açısından ayırır [11].",
+             "Üç domaini birbirinden ayıran başka özellikler de bulunur [11]."
+        ]
+    },
+    "Üreme": {
+        "tanım": "Üreme, canlı neslinin devamı için yeni bireylerin oluşması olarak tanımlanan bir süreçtir [42].",
+        "ek_bilgi": [
+            "Üreme türlerin sürdürülmesini sağlar [42].",
+            "Neslin devamı için üreme zorunlu olsa da canlının kendi yaşamını devam ettirebilmesi için zorunlu bir olay değildir [42].",
+            "Canlılarda üreme, eşeysiz ve eşeyli üreme olmak üzere iki yolla gerçekleşir [42]."
+        ]
+    },
+    "Uyarılara Tepki": {
+        "tanım": "Tepki, bir organizmanın çevresinde meydana gelen değişikliklere yanıt vermesi ve uyum sağlamasıdır [68].",
+        "ek_bilgi": [
+            "Canlılar, dış ortamdan gelen fiziksel ve kimyasal uyaranlara ve içsel uyarılara tepki verir [68].",
+            "Tek hücreli canlılar dış uyaranlara hücresel düzeyde tepki verir [68].",
+            "Bakterilerin kimyasal bir maddenin varlığını algılayarak yön değiştirmesi uyarılara tepkiye örnektir [68]."
+        ]
+    },
+    "Verimli döl": {
+        "tanım": "Verimli döl, üreme yeteneğine sahip yavrudur [65].",
+        "ek_bilgi": [
+             "Kalıtsal olarak ortak karakterlere sahip, kendi aralarında verimli döl verebilen yavrular elde edilen bireyler türü oluşturur [28]."
+        ]
+    },
+     "Virüsler": {
+        "tanım": "Virüslerin canlı mı cansız mı olduğu tartışma konusudur, cansız ile canlı arasında kalan bir yapıdadır [69].",
+        "ek_bilgi": [
+            "Virüsler Latince “zehir ” anlamına gelir [69].",
+            "Virüsler, önceden yapılmış canlı hücre tanımına tam olarak uymaz [69].",
+            "Virüsler prokaryot ve ökaryot yapılı hücrelere oranla çok daha küçüktür ve daha basit yapılıdır [69].",
+             "Virüsler, cansız ortamda kristalleşen, canlı hücre içinde çoğalan ve genellikle hastalık yapıcı yapıdır [65]."
+        ]
+    },
+    "Çıkarım": {
+         "tanım": "Elde edilen verilerin yorumlanmasına çıkarım denir [8].",
+         "ek_bilgi": []
+    },
+     "Ökaryot": {
+        "tanım": "Ökaryotlar, prokaryotların dışında kalan tüm canlıları kapsayan domaindir [10].",
+        "ek_bilgi": [
+             "Ökaryotlar daha karmaşık ve zarla çevrili yapıları olan hücre tipine sahiptir [11].",
+             "Ökaryotlar domaini içerisinde yer alan canlıların hücreleri, belirgin bir çekirdek ve yine zarla çevrili yapıları ile diğer domainlerden ayrışır [10].",
+             "Ökaryotik hücrelerde bulunan zarla çevrili yapılar, birbirinden farklılık gösterebileceği gibi bütün ökaryotik hücrelerde zarlı yapıların tamamı da bulunmayabilir [10].",
+             "Ökaryot hücrelerin genetik materyali (DNA), histon adı verilen proteinler üzerine sarımlanarak hücre bölünmesi sürecinde DNA’nın sıkıca paketlenmesini sağlar [10].",
+             "Ökaryot hücrelerin içinde hücre şeklinin korunmasına ve hücre içi organellerin hareketine katkı sağlayan hücresel iskelet de bulunur [10].",
+             "Bu gruptaki canlılar tek hücreli organizmalardan çok hücreli organizmalara kadar çeşitli organizasyon seviyelerine sahip olabilir [10].",
+             "Ökaryot hücredeki DNA'nın çoğu, çift katlı zarla çevrili bir organel olan çekirdeğin içindedir [54].",
+             "Genetik materyal açısından karşılaştırıldığında ökaryotlarda çok sayıda iplik şeklinde doğrusal DNA bulunur [54].",
+             "Ökaryot hücrelerde mitokondri, endoplazmik retikulum, Golgi aygıtı, lizozom, peroksizom gibi zarla çevrili organeller vardır [54].",
+             "Hücre boyutları açısından genel olarak ökaryot hücreler, prokaryot hücrelerden daha büyüktür [54]."
+        ]
+    }
+}
