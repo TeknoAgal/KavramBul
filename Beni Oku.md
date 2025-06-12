@@ -1,0 +1,4 @@
+Bu teknofest doğal dil işleme yarışması için hazırlamış olduğum zemberek ve nltk gibi kütüphanelerden yararlandığım python kodu python kodu veriseti olarak zemberek morfoloji ve nltk morfoloji (türkçe) ve tabikide kaynak.json bir sözlük dosyası içinde kavramın adı tanımı ve ek bilgiler var
+bu bilgiler MEB Kitaplarına göre oluşturuldu yani bir öğrenci uzun bir metinin içinden tüm kavramları bulabiliyor
+kavram bulmada NLP çok etkili mesela metinde Virüsler yazıyor yada virüsler yada vİRÜSLER kaynak.json dada virüs diye bir kavram var ben ise bu kelimelerin köklerini zemberek morfolojiden çkarıp str.lower formatı ile o kavramla kelime arasındaki bağı anlayabiliyorum
+hemde bir baskı değeri var eğer yeteri kadar kavramla kaynak.json arasında bağ kurulursa o kavramın adı,tanımı ve bilgileri outputta sunulur
